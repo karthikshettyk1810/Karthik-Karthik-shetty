@@ -1,5 +1,4 @@
-### Hi there 👋  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 I'm **Karthik Shetty K**, an aspiring **Software Engineer & Full Stack Developer** passionate about building impactful and innovative solutions. I enjoy working on projects that blend **Web Development with LLM's** to solve real-world challenges.  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 - 🔭 I’ve worked on exciting projects like:  
