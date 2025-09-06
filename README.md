@@ -8,7 +8,7 @@ I'm **Karthik Shetty K**, an aspiring **Software Engineer & Full Stack Developer
 - 💬 Ask me about **Python,JavaScript, Django, HTML/CSS, SQL and APIs**  
 - ⚡ Fun fact: I was promoted to **Shift Manager at 18** — leadership and problem-solving are part of my journey just like coding!  
 - 📌 Open to collaborations, internships, and innovative tech projects  
-- 📫 Reach me at: [Email](mailto:karthikshetty1810@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthikshetty1810/)  
+- 📫 Reach me at: [Email](mailto:karthikshetty1810@gmail.com)karthikshetty1810@gmail.com | [LinkedIn](https://www.linkedin.com/in/karthikshetty1810/)https://www.linkedin.com/in/karthikshetty1810/
 
 ---
 
